@@ -27,6 +27,7 @@
   "matchups": {
     "as-roma-vs-lazio":   { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/as-roma-vs-lazio-square.jpg",   "landscape": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/as-roma-vs-lazio-landscape.jpg" },
     "juventus-vs-napoli": { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/juventus-vs-napoli-square.jpg", "landscape": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/juventus-vs-napoli-landscape.jpg" },
-    "milan-vs-inter":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-square.jpg",     "landscape": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-landscape.jpg" }
+    "milan-vs-inter":          { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-square.jpg",     "landscape": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-landscape.jpg" },
+    "ac-milan-vs-inter-milan": { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-square.jpg",     "landscape": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/matchups/milan-vs-inter-landscape.jpg" }
   }
 }
