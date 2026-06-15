@@ -37,6 +37,6 @@ in the brain. Masters (2K PNG) + the generators live there too
 
 ## Current coverage
 
-- **Serie A**: 20 clubs (square). Matchups + landscape: TODO.
+- **Serie A**: 20 clubs (square) + 3 derby matchups (square + 1.91:1 landscape, drummer-VS style). More matchups + club landscape: TODO.
 - Premier League / Ligue 1 / Eredivisie / World Cup: TODO (generate as needed;
   the enricher join is league-agnostic).
