@@ -2,7 +2,9 @@
   "_comment": "LFT image catalog for Google Ads dynamic image assets. Consumed by feed-enricher-pro. 'clubs' keyed by the enricher's *_slug_final; 'matchups' keyed by '<home_slug>-vs-<away_slug>'. square = 1:1 1200x1200, landscape = 1.91:1 (added later). See brain clients/liveticketgroup/image-feed-integration.md.",
   "clubs": {
     "milan":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/milan-club-square.jpg" },
+    "ac-milan":    { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/milan-club-square.jpg" },
     "inter":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/inter-club-square.jpg" },
+    "inter-milan": { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/inter-club-square.jpg" },
     "juventus":    { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/juventus-club-square.jpg" },
     "as-roma":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/as-roma-club-square.jpg" },
     "napoli":      { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/napoli-club-square.jpg" },
