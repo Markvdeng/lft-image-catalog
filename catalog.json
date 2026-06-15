@@ -1,0 +1,26 @@
+{
+  "_comment": "LFT image catalog for Google Ads dynamic image assets. Consumed by feed-enricher-pro. 'clubs' keyed by the enricher's *_slug_final; 'matchups' keyed by '<home_slug>-vs-<away_slug>'. square = 1:1 1200x1200, landscape = 1.91:1 (added later). See brain clients/liveticketgroup/image-feed-integration.md.",
+  "clubs": {
+    "milan":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/milan-club-square.jpg" },
+    "inter":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/inter-club-square.jpg" },
+    "juventus":    { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/juventus-club-square.jpg" },
+    "as-roma":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/as-roma-club-square.jpg" },
+    "napoli":      { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/napoli-club-square.jpg" },
+    "lazio":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/lazio-club-square.jpg" },
+    "atalanta":    { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/atalanta-club-square.jpg" },
+    "fiorentina":  { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/fiorentina-club-square.jpg" },
+    "torino":      { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/torino-club-square.jpg" },
+    "bologna":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/bologna-club-square.jpg" },
+    "udinese":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/udinese-club-square.jpg" },
+    "como":        { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/como-club-square.jpg" },
+    "cagliari":    { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/cagliari-club-square.jpg" },
+    "genoa":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/genoa-club-square.jpg" },
+    "lecce":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/lecce-club-square.jpg" },
+    "monza":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/monza-club-square.jpg" },
+    "parma":       { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/parma-club-square.jpg" },
+    "us-sassuolo": { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/us-sassuolo-club-square.jpg" },
+    "venezia":     { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/venezia-club-square.jpg" },
+    "frosinone":   { "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/frosinone-club-square.jpg" }
+  },
+  "matchups": {}
+}
