@@ -27,6 +27,17 @@ BASE = "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main"
 CLUB_ALIASES = {"ac-milan": "milan", "inter-milan": "inter", "chelsea": "fc-chelsea"}
 MATCHUP_ALIASES = {"ac-milan-vs-inter-milan": "milan-vs-inter"}
 
+# Nations: live feed emits the matched-URL slug (e.g. england-football); the
+# committed edge fn normalizes to the bare feed slug (england). Auto-alias every
+# "<x>-football" image to its bare "<x>" so both derivations attach. Specials
+# below cover nations whose feed slug isn't just the stripped suffix.
+NATION_ALIASES = {
+    "czechia": "czech-republic-football",
+    "ivory-coast": "cote-divoire-football",
+    "bosnia-and-herzegovina": "bosnia-herzegovina-football",
+    "republic-of-ireland": "ireland-football",
+}
+
 clubs: dict = {}
 for f in glob.glob(f"{ROOT}/clubs/*-club-square.jpg"):
     slug = os.path.basename(f)[: -len("-club-square.jpg")]
@@ -44,6 +55,14 @@ for f in glob.glob(f"{ROOT}/matchups/*.jpg"):
     matchups.setdefault(m.group(1), {})[m.group(2)] = f"{BASE}/matchups/{b}"
 
 for alias, canon in CLUB_ALIASES.items():
+    if canon in clubs:
+        clubs[alias] = dict(clubs[canon])
+# Auto-alias <x>-football -> <x> for nations (only add if the bare key is free).
+for slug in list(clubs):
+    if slug.endswith("-football"):
+        bare = slug[: -len("-football")]
+        clubs.setdefault(bare, dict(clubs[slug]))
+for alias, canon in NATION_ALIASES.items():
     if canon in clubs:
         clubs[alias] = dict(clubs[canon])
 for alias, canon in MATCHUP_ALIASES.items():
