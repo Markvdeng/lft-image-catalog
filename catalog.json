@@ -5,6 +5,9 @@
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/milan-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/milan-drummer-square.jpg"
     },
+    "alaves": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/alaves-drummer-square.jpg"
+    },
     "arsenal": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/arsenal-drummer-square.jpg"
     },
@@ -18,6 +21,12 @@
     "atalanta": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/atalanta-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/atalanta-drummer-square.jpg"
+    },
+    "athletic-de-bilbao": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/athletic-de-bilbao-drummer-square.jpg"
+    },
+    "atletico-madrid": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/atletico-madrid-drummer-square.jpg"
     },
     "bologna": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/bologna-club-square.jpg",
@@ -36,6 +45,9 @@
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/cagliari-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/cagliari-drummer-square.jpg"
     },
+    "celta-de-vigo": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/celta-de-vigo-drummer-square.jpg"
+    },
     "chelsea": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/fc-chelsea-drummer-square.jpg"
     },
@@ -49,11 +61,23 @@
     "crystal-palace": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/crystal-palace-drummer-square.jpg"
     },
+    "elche-cf": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/elche-cf-drummer-square.jpg"
+    },
+    "espanyol": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/espanyol-drummer-square.jpg"
+    },
     "everton": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/everton-drummer-square.jpg"
     },
+    "fc-barcelona": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/fc-barcelona-drummer-square.jpg"
+    },
     "fc-chelsea": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/fc-chelsea-drummer-square.jpg"
+    },
+    "fc-sevilla": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/fc-sevilla-drummer-square.jpg"
     },
     "fiorentina": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/fiorentina-club-square.jpg",
@@ -69,6 +93,12 @@
     "genoa": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/genoa-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/genoa-drummer-square.jpg"
+    },
+    "getafe": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/getafe-drummer-square.jpg"
+    },
+    "girona-fc": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/girona-fc-drummer-square.jpg"
     },
     "hull-city": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/hull-city-drummer-square.jpg"
@@ -99,6 +129,9 @@
     "leeds-united": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/leeds-united-drummer-square.jpg"
     },
+    "levante-ud": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/levante-ud-drummer-square.jpg"
+    },
     "liverpool": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/liverpool-drummer-square.jpg"
     },
@@ -126,9 +159,30 @@
     "nottingham-forest": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/nottingham-forest-drummer-square.jpg"
     },
+    "osasuna": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/osasuna-drummer-square.jpg"
+    },
     "parma": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/parma-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/parma-drummer-square.jpg"
+    },
+    "rayo-vallecano": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/rayo-vallecano-drummer-square.jpg"
+    },
+    "real-betis": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/real-betis-drummer-square.jpg"
+    },
+    "real-madrid": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/real-madrid-drummer-square.jpg"
+    },
+    "real-mallorca": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/real-mallorca-drummer-square.jpg"
+    },
+    "real-oviedo": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/real-oviedo-drummer-square.jpg"
+    },
+    "real-sociedad": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/real-sociedad-drummer-square.jpg"
     },
     "sunderland": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/sunderland-drummer-square.jpg"
@@ -148,9 +202,15 @@
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/us-sassuolo-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/us-sassuolo-drummer-square.jpg"
     },
+    "valencia": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/valencia-drummer-square.jpg"
+    },
     "venezia": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/venezia-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/venezia-drummer-square.jpg"
+    },
+    "villarreal": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/villarreal-drummer-square.jpg"
     }
   },
   "matchups": {
