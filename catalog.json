@@ -36,6 +36,9 @@
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/cagliari-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/cagliari-drummer-square.jpg"
     },
+    "chelsea": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/fc-chelsea-drummer-square.jpg"
+    },
     "como": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/como-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/como-drummer-square.jpg"

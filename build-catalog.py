@@ -21,8 +21,10 @@ import re
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main"
 
-# alias slug (as emitted by the deployed enricher) -> canonical slug we host under
-CLUB_ALIASES = {"ac-milan": "milan", "inter-milan": "inter"}
+# alias slug (as emitted by the enricher) -> canonical slug we host under.
+# chelsea: live feed emits fc-chelsea (matched-URL slug), but the committed edge
+# fn emits the normalized 'chelsea' — alias both to the hosted fc-chelsea image.
+CLUB_ALIASES = {"ac-milan": "milan", "inter-milan": "inter", "chelsea": "fc-chelsea"}
 MATCHUP_ALIASES = {"ac-milan-vs-inter-milan": "milan-vs-inter"}
 
 clubs: dict = {}
