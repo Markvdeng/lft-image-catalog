@@ -427,8 +427,35 @@
     "slovenia": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/slovenia-drummer-square.jpg"
     },
+    "south-africa": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/south-africa-football-drummer-square.jpg"
+    },
+    "south-africa-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/south-africa-football-drummer-square.jpg"
+    },
+    "south-korea": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/south-korea-drummer-square.jpg"
+    },
+    "spain": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/spain-football-drummer-square.jpg"
+    },
+    "spain-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/spain-football-drummer-square.jpg"
+    },
     "sunderland": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/sunderland-drummer-square.jpg"
+    },
+    "sweden": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/sweden-football-drummer-square.jpg"
+    },
+    "sweden-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/sweden-football-drummer-square.jpg"
+    },
+    "switzerland": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/switzerland-football-drummer-square.jpg"
+    },
+    "switzerland-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/switzerland-football-drummer-square.jpg"
     },
     "torino": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/torino-club-square.jpg",
@@ -443,9 +470,21 @@
     "tunisia-football": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/tunisia-football-drummer-square.jpg"
     },
+    "turkey": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/turkey-football-drummer-square.jpg"
+    },
+    "turkey-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/turkey-football-drummer-square.jpg"
+    },
     "udinese": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/udinese-club-square.jpg",
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/udinese-drummer-square.jpg"
+    },
+    "uruguay": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/uruguay-football-drummer-square.jpg"
+    },
+    "uruguay-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/uruguay-football-drummer-square.jpg"
     },
     "us-sassuolo": {
       "square": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs/us-sassuolo-club-square.jpg",
@@ -457,6 +496,9 @@
     "usa-football": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/usa-football-drummer-square.jpg"
     },
+    "uzbekistan": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/uzbekistan-drummer-square.jpg"
+    },
     "valencia": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/valencia-drummer-square.jpg"
     },
@@ -466,6 +508,12 @@
     },
     "villarreal": {
       "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/villarreal-drummer-square.jpg"
+    },
+    "wales": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/wales-football-drummer-square.jpg"
+    },
+    "wales-football": {
+      "square_drummer": "https://raw.githubusercontent.com/Markvdeng/lft-image-catalog/main/clubs-drummer/wales-football-drummer-square.jpg"
     }
   },
   "matchups": {
